@@ -39,3 +39,11 @@ input size   - instructions(merge sort)- instructions(quicksort)//small input he
 40	6990	4825
 45	8783	5642
 50	10772	6454
+
+Class	Sorting algorithm
+Worst-case performance	O(n2)
+Best-case performance	O(n log n) (simple partition)
+or O(n) (three-way partition and equal keys)
+Average performance	O(n log n)
+Worst-case space complexity	O(n) auxiliary (naive)
+O(log n) auxiliary (Sedgewick 1978)
