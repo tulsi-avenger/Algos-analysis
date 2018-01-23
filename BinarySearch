@@ -1,0 +1,16 @@
+
+input size(n)      no of instructions
+                  
+10                	29
+100                	50
+1000              	71
+10000	              99
+100000            	120
+1000000           	130
+
+Class	Search                     algorithm
+Data structure                  	Array
+Worst-case performance          	O(log n)
+Best-case performance           	O(1)
+Average performance              	O(log n)
+Worst-case space complexity       O(1)
