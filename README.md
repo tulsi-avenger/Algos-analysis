@@ -1,8 +1,8 @@
 # Algos-analysis
 Hello ,
-You are most welcome! :)
+You are most welcome to contribute! :)
  
- here you can see the analysis of important algorithm!
+ Here you can see the analysis of important algorithm!
  
  In grid of snapshot, you will get info about the no of instructions executed as per input size(n).
  in plot of snapshot you can visualize the graph i.e. no of instructions vs input size (n).
